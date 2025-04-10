@@ -10,7 +10,7 @@ X1 EcoChain is a leap into the future, where blockchain evolves beyond technolog
 
 **White Paper Structure**
 
-1. [Introduction](#introduction)
+1. [Introduction](#1-introduction)
 2. [Main issues of the industry](#main-issues-of-the-industry)
 3. [Solving the problem from X1 EcoChain](#solving-the-problem-from-x1-ecochain)
 4. [Technical Overview of X1 EcoChain](#technical-overview-of-x1-ecochain)
