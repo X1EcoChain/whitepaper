@@ -162,11 +162,12 @@ This architecture enables X1Nodes to be deployed in residential and office envir
 
 One of the key advantages of X1 EcoChain is its exceptional energy efficiency and environmentally friendliness. Unlike traditional blockchain networks that consume vast amounts of energy, X1 EcoChain relies on compact and low-power X1Nodes, each consuming only 3 Wh.
 
-	• **Bitcoin** – Thousands of megawatts (PoW mining)
-	•	**Ethereum** – Hundreds of megawatts (PoS)
-	•	**X1 EcoChain (X1Node)** – Only 3 Wh per node (the most energy-efficient, environmentally friendly and totalyl decentralized blockchain)
+• **Bitcoin** – Thousands of megawatts (PoW mining)  
+• **Ethereum** – Hundreds of megawatts (PoS)  
+• **X1 EcoChain (X1Node)** – Only 3 Wh per node (the most energy-efficient, environmentally friendly and totally decentralized blockchain)
 
 X1 EcoChain is not only a technologically advanced blockchain but also an environmentally responsible one. This approach enables practical decentralization: users can run X1Nodes at home, in the office, or even in mobile solutions without the need for expensive data centers.
+
 
 ### **Temperature and Noise Level**
 
