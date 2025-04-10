@@ -11,17 +11,17 @@ X1 EcoChain is a leap into the future, where blockchain evolves beyond technolog
 **White Paper Structure**
 
 1. [Introduction](#1-introduction)
-2. [Main issues of the industry](#main-issues-of-the-industry)
-3. [Solving the problem from X1 EcoChain](#solving-the-problem-from-x1-ecochain)
-4. [Technical Overview of X1 EcoChain](#technical-overview-of-x1-ecochain)
-5. [The unique architecture of X1 EcoChain](#the-unique-architecture-of-x1-ecochain)
-6. [Comparison of X1 EcoChain with other blockchains](#comparison-of-x1-ecochain-with-other-blockchains)
-7. [Innovation from X1 EcoChain](#innovation-from-x1-ecochain)
-8. [X1 Coin Economics (Tokenomics)](#x1-coin-economics-tokenomics)
-9. [Bonding Curve – A unique Presale mechanism](#bonding-curve-a-unique-presale-mechanism)
-10. [The X1 EcoChain Ecosystem](#the-x1-ecochain-ecosystem)
-11. [Roadmap](#roadmap)
-12. [Conclusion](#conclusion)
+2. [Main issues of the industry](#2-main-issues-of-the-industry)
+3. [Solving the problem from X1 EcoChain](#3-solving-the-problem-from-x1-ecochain)
+4. [Technical Overview of X1 EcoChain](#4-technical-overview-of-x1-ecochain)
+5. [The unique architecture of X1 EcoChain](#5-the-unique-architecture-of-x1-ecochain)
+6. [Comparison of X1 EcoChain with other blockchains](#6-comparison-of-x1-ecochain-with-other-blockchains)
+7. [Innovation from X1 EcoChain](#7-innovation-from-x1-ecochain)
+8. [X1 Coin Economics (Tokenomics)](#8-x1-coin-economics-tokenomics)
+9. [Bonding Curve – A unique Presale mechanism](#9-bonding-curve-a-unique-presale-mechanism)
+10. [The X1 EcoChain Ecosystem](#10-the-x1-ecochain-ecosystem)
+11. [Roadmap](#11-roadmap)
+12. [Conclusion](#12-conclusion)
 
 ## 1. Introduction
 
